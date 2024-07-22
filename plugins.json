@@ -3,5 +3,10 @@
         "name": "Mr Bean Plugin",
         "overview": "if you know you know",
         "repo": "https://github.com/FarmzDev/mr-bean-mediah-plugin"
+    },
+    {
+        "name": "Side Bar Tweak",
+        "overview": "Adds the ability to shrink the sidebar on desktop",
+        "repo": "https://github.com/jkablez/mediah-plugin"
     }
 ]
