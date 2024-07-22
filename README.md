@@ -4,10 +4,10 @@ Deploy your custom plugins to enchance your Mediah performance.
 
 ## 🚀 Creating a Plugin
 
-Create a base file called `main.js`
+Create a base file called `app.js`
 
 ```shell
-touch main.js
+touch app.js
 ```
 
 Code your plugins functionaility with our [Wiki](https://github.com/MediahTM/Mediah-Plugins/wiki/Plugin-Framework)
