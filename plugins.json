@@ -6,7 +6,7 @@
     },
     {
         "name": "Side Bar Tweak",
-        "overview": "Adds the ability to shrink the sidebar on desktop",
+        "overview": "Adds the ability to shrink the sidebar on desktop, allows for better usage of the sidebar with accessible items.",
         "repo": "https://github.com/jkablez/mediah-plugin"
     }
 ]
