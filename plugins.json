@@ -13,11 +13,13 @@
         "name": "Audio Streamer",
         "overview": "A plugin for Mediah that allows users to stream audio files instantly.",
         "repo": "https://github.com/MediahTM/Audio-Streamer-Plugin",
-        "official": true
+        "official": true,
+        "recommended": true
     },
     {
         "name": "File Data Import & Export",
         "overview": "Import and export files as JSON, to send and store locally for personal reasons, to allow hidden file sharing",
-        "repo": "https://github.com/jkablez/File-Import-Export"
+        "repo": "https://github.com/jkablez/File-Import-Export",
+        "recommended": true
     }
 ]
