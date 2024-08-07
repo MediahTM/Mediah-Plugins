@@ -21,5 +21,11 @@
         "overview": "Import and export files as JSON, to send and store locally for personal reasons, to allow hidden file sharing",
         "repo": "https://github.com/jkablez/File-Import-Export",
         "recommended": true
+    },
+    {
+        "name": "File Data Import & Export fixed",
+        "overview": "Until Jack comes back from touching grass",
+        "repo": "https://github.com/FarmzDev/File-Import-Export",
+        "recommended": false
     }
 ]
