@@ -16,5 +16,11 @@
         "overview": "Import and export files as JSON, to send and store locally for personal reasons, to allow hidden file sharing",
         "repo": "https://github.com/jkablez/File-Import-Export",
         "recommended": true
+    },
+    {
+        "name": "Bulk Rename",
+        "overview": "title",
+        "repo": "https://github.com/FarmzDev/batch-rename",
+        "recommended": true
     }
 ]
