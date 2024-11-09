@@ -1,10 +1,12 @@
 [
     {
+        "id": 1,
         "name": "Side Bar Tweak",
         "overview": "Adds the ability to shrink the sidebar on desktop, allows for better usage of the sidebar with accessible items.",
         "repo": "https://github.com/jkablez/mediah-plugin"
     },
     {
+        "id": 2,
         "name": "Audio Streamer",
         "overview": "A plugin for Mediah that allows users to stream audio files instantly.",
         "repo": "https://github.com/MediahTM/Audio-Streamer-Plugin",
@@ -12,14 +14,16 @@
         "recommended": true
     },
     {
+        "id": 3,
         "name": "File Data Import & Export",
         "overview": "Import and export files as JSON, to send and store locally for personal reasons, to allow hidden file sharing",
         "repo": "https://github.com/jkablez/File-Import-Export",
         "recommended": true
     },
     {
+        "id": 4,
         "name": "Bulk Rename",
-        "overview": "title",
+        "overview": "Quickly update multiple file names at once",
         "repo": "https://github.com/FarmzDev/batch-rename",
         "recommended": true
     }
